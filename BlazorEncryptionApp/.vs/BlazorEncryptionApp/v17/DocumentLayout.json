@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\domain\\interface\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:domain\\interface\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\domain\\service\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:domain\\service\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\domain\\helper\\aesccmciphertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:domain\\helper\\aesccmciphertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AesCcmCiphertext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Helper\\AesCcmCiphertext.cs",
+              "RelativeDocumentMoniker": "Domain\\Helper\\AesCcmCiphertext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Helper\\AesCcmCiphertext.cs",
+              "RelativeToolTip": "Domain\\Helper\\AesCcmCiphertext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:27:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Service\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Service\\EncryptionService.cs",
+              "RelativeToolTip": "Domain\\Service\\EncryptionService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:26:53.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Interface\\IEncryptionService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\IEncryptionService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Interface\\IEncryptionService.cs",
+              "RelativeToolTip": "Domain\\Interface\\IEncryptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:26:42.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
