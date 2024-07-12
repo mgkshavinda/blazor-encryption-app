@@ -1,0 +1,1 @@
+# blazor-encryption-app
