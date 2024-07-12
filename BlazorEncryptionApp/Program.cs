@@ -1,6 +1,8 @@
 using BlazorEncryptionApp.Components;
+using BlazorEncryptionApp.Data;
 using BlazorEncryptionApp.Domain.Interface;
 using BlazorEncryptionApp.Domain.Service;
+using Microsoft.EntityFrameworkCore;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +10,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(connectionString));
 
 // Retrieve the encryption key and key size from configuration
 string encryptionKeyString = builder.Configuration["EncryptionKeySettings:EncryptionKey"];

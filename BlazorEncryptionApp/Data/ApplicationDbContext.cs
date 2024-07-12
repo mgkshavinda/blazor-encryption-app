@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using BlazorEncryptionApp.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlazorEncryptionApp.Data
 {
@@ -8,5 +9,7 @@ namespace BlazorEncryptionApp.Data
         {
 
         }
+
+        DbSet<Password> passwords { get; set; }
     }
 }

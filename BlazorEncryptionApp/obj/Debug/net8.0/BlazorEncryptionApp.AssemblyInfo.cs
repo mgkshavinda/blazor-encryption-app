@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorEncryptionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0c2dd47ec68f13f6a9897ad806878d7e2a49a27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+336972d8848c71005283b9624405025dfd17d29c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorEncryptionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorEncryptionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
