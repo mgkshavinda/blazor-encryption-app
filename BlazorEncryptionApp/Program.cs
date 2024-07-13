@@ -20,10 +20,6 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 string encryptionKeyString = builder.Configuration["EncryptionKeySettings:EncryptionKey"];
 string keySizeString = builder.Configuration["EncryptionKeySettings:KeySize"];
 
-if (string.IsNullOrEmpty(encryptionKeyString) || string.IsNullOrEmpty(keySizeString))
-{
-    throw new InvalidOperationException("Encryption key or key size is not configured.");
-}
 
 if (!int.TryParse(keySizeString, out int keySize) || (keySize != 128 && keySize != 192 && keySize != 256))
 {
