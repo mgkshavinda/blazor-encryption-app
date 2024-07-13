@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorEncryptionApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorEncryptionApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorEncryptionApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorEncryptionApp.props",
+      "PackagePath": "build\\BlazorEncryptionApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorEncryptionApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorEncryptionApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorEncryptionApp.props",
+      "PackagePath": "buildTransitive\\BlazorEncryptionApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

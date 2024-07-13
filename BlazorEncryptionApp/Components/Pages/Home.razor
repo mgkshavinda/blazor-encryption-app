@@ -1,0 +1,80 @@
+﻿@page "/"
+@using BlazorEncryptionApp.Entities
+@using BlazorEncryptionApp.Domain.Interface
+@using BlazorEncryptionApp.Infrastructure
+@inject Repository Repository
+@inject IEncryptionService EncryptionService
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<div class="container-fluid">
+    <div>
+        <EditForm Model="@passwordDto" OnValidSubmit="OnValidSubmitAsync">
+            <div class="row mb-3 mt-5">
+                <div class="col-md-6">
+                    <label class="mb-1">Name</label>
+                    <InputText class="form-control" @bind-Value="passwordDto.Name" style="width:100%;"></InputText>
+                </div>
+                <div class="col-md-6">
+                    <label class="mb-1">Password</label>
+                    <InputText class="form-control" @bind-Value="passwordDto.PasswordValue" style="width:100%;"></InputText>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col-md-12 d-flex justify-content-end my-0">
+                    <button type="button" class="btn btn-outline-primary me-2" @onclick="CancelPassword">Cancel</button>
+                    <button type="submit" class="btn btn-primary ">Save</button>
+                </div>
+            </div>
+        </EditForm>  
+        @if (!string.IsNullOrEmpty(SuccessMessage))
+        {
+            <p class="text-success">@SuccessMessage</p>
+        }
+    </div>
+</div>
+
+@code{
+    [SupplyParameterFromForm]
+    public PasswordDto passwordDto { get; set; } = new();
+
+    public string SuccessMessage { get; set; } = "";
+
+    public void CancelPassword()
+    {
+        passwordDto = new PasswordDto();
+    }
+
+    public async Task OnValidSubmitAsync()
+    {
+        if (passwordDto != null)
+        {
+            if (!string.IsNullOrEmpty(passwordDto.Name) && !string.IsNullOrEmpty(passwordDto.PasswordValue))
+            {
+                var password = new Password
+                {
+                    Id = Guid.NewGuid(),
+                    Name = passwordDto.Name,
+                    EncryptedPassword = EncryptionService.EncryptPassword(passwordDto.PasswordValue)
+                };
+
+                Repository.CreateAsync(password);
+                SuccessMessage = "Password Saved";
+                passwordDto = new PasswordDto();
+            }
+        }
+    }
+}
+
+<style>
+    .InputText:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+    .btn:focus {
+        outline: none;
+        box-shadow: none;
+    }
+</style>
