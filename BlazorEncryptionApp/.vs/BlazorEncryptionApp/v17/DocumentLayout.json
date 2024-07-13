@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\entities\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:entities\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\components\\pages\\passwordlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:components\\pages\\passwordlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\domain\\interface\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:domain\\interface\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\entities\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:entities\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\domain\\service\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:domain\\service\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\domain\\interface\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|solutionrelative:domain\\interface\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6619821-CF8D-44C9-A2E9-1B5E5C57801C}|BlazorEncryptionApp.csproj|c:\\users\\lenovo\\documents\\github\\blazor-encryption-app\\blazorencryptionapp\\domain\\helper\\aesccmciphertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PasswordList.razor",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Components\\Pages\\PasswordList.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\PasswordList.razor",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Components\\Pages\\PasswordList.razor",
               "RelativeToolTip": "Components\\Pages\\PasswordList.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-12T19:07:36.928Z",
               "IsPinned": true,
@@ -76,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -90,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Password.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Entities\\Password.cs",
               "RelativeDocumentMoniker": "Entities\\Password.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Entities\\Password.cs",
               "RelativeToolTip": "Entities\\Password.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T18:53:07.902Z",
               "IsPinned": true,
@@ -104,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -118,13 +122,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAFAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAD0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-12T18:09:02.689Z",
               "IsPinned": true,
@@ -132,7 +136,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Infrastructure\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Infrastructure\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:55:34.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PasswordDto.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Entities\\PasswordDto.cs",
               "RelativeDocumentMoniker": "Entities\\PasswordDto.cs",
@@ -140,12 +158,11 @@
               "RelativeToolTip": "Entities\\PasswordDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:17:43.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T19:17:43.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -153,18 +170,17 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T19:07:03.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T19:07:03.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-12T17:49:58.677Z",
               "EditorCaption": ""
@@ -177,14 +193,13 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAUwA8AAAAsAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwC4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:49:57.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:49:57.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AesCcmCiphertext.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Helper\\AesCcmCiphertext.cs",
               "RelativeDocumentMoniker": "Domain\\Helper\\AesCcmCiphertext.cs",
@@ -192,25 +207,23 @@
               "RelativeToolTip": "Domain\\Helper\\AesCcmCiphertext.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAwwBgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:27:33.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:27:33.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "EncryptionService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Service\\EncryptionService.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\EncryptionService.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Service\\EncryptionService.cs",
               "RelativeToolTip": "Domain\\Service\\EncryptionService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCgAAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBoAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:26:53.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:26:53.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IEncryptionService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\blazor-encryption-app\\BlazorEncryptionApp\\Domain\\Interface\\IEncryptionService.cs",
               "RelativeDocumentMoniker": "Domain\\Interface\\IEncryptionService.cs",
@@ -218,8 +231,7 @@
               "RelativeToolTip": "Domain\\Interface\\IEncryptionService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:26:42.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:26:42.036Z"
             }
           ]
         }

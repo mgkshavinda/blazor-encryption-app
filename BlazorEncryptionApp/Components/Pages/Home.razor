@@ -1,6 +1,8 @@
 ﻿@page "/"
 @using BlazorEncryptionApp.Entities
 @using BlazorEncryptionApp.Domain.Interface
+@using BlazorEncryptionApp.Infrastructure
+@inject Repository Repository
 @inject IEncryptionService EncryptionService
 @rendermode InteractiveServer
 
@@ -26,6 +28,10 @@
                 </div>
             </div>
         </EditForm>  
+        @if (!string.IsNullOrEmpty(SuccessMessage))
+        {
+            <p class="text-success">@SuccessMessage</p>
+        }
     </div>
 </div>
 
@@ -33,16 +39,18 @@
     [SupplyParameterFromForm]
     public PasswordDto passwordDto { get; set; } = new();
 
+    public string SuccessMessage { get; set; } = "";
+
     public void CancelPassword()
     {
-
+        passwordDto = new PasswordDto();
     }
 
     public async Task OnValidSubmitAsync()
     {
         if (passwordDto != null)
         {
-            if (string.IsNullOrEmpty(passwordDto.Name) || string.IsNullOrEmpty(passwordDto.PasswordValue))
+            if (!string.IsNullOrEmpty(passwordDto.Name) && !string.IsNullOrEmpty(passwordDto.PasswordValue))
             {
                 var password = new Password
                 {
@@ -50,6 +58,10 @@
                     Name = passwordDto.Name,
                     EncryptedPassword = EncryptionService.EncryptPassword(passwordDto.PasswordValue)
                 };
+
+                Repository.CreateAsync(password);
+                SuccessMessage = "Password Saved";
+                passwordDto = new PasswordDto();
             }
         }
     }

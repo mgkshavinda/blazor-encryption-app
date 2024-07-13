@@ -2,6 +2,7 @@ using BlazorEncryptionApp.Components;
 using BlazorEncryptionApp.Data;
 using BlazorEncryptionApp.Domain.Interface;
 using BlazorEncryptionApp.Domain.Service;
+using BlazorEncryptionApp.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using System.Text;
 
@@ -42,6 +43,8 @@ for (int i = 0; i < requiredKeyLength; i++)
 
 // Add the EncryptionService with the encryption key
 builder.Services.AddSingleton<IEncryptionService>(new EncryptionService(encryptionKey));
+
+builder.Services.AddScoped<Repository>();
 
 
 var app = builder.Build();
